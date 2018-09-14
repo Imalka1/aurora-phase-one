@@ -25,7 +25,39 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/material.min.js",
+              "src/assets/js/perfect-scrollbar.jquery.min.js",
+              "src/assets/js/material-dashboard98f3.js",
+              "src/assets/js/data-tables.js",
+              "src/assets/js/events-calendar.js",
+              "src/assets/js/login/login.js",
+              "src/assets/ajax/libs/core-js/2.4.1/core.js",
+              "src/assets/js/arrive.min.js",
+              "src/assets/js/jquery.validate.min.js",
+              "src/assets/js/moment.min.js",
+              "src/assets/js/chartist.min.js",
+              "src/assets/js/jquery.bootstrap-wizard.js",
+              "src/assets/js/bootstrap-notify.js",
+              "src/assets/js/jquery.sharrre.js",
+              "src/assets/js/jquery-jvectormap.js",
+              "src/assets/js/nouislider.min.js",
+              "src/assets/js/jquery.select-bootstrap.js",
+              "src/assets/js/jquery.datatables.js",
+              "src/assets/js/sweetalert2.js",
+              "src/assets/js/jasny-bootstrap.min.js",
+              "src/assets/js/fullcalendar.min.js",
+              "src/assets/js/jquery.tagsinput.js",
+              "src/assets/js/demo.js",
+              "src/assets/vendor/bootstrap/js/bootstrap.bundle.min.js",
+              "src/assets/vendor/jquery-easing/jquery.easing.min.js",
+              "src/assets/js/jqBootstrapValidation.js",
+              "src/assets/js/contact_me.js",
+              "src/assets/js/agency.min.js",
+              "src/assets/js/countdown_timer.js"
+            ]
           },
           "configurations": {
             "production": {
